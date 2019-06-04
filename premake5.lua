@@ -42,7 +42,7 @@ project "GLFW"
 		}
 
 	filter "configurations:Debug"
-		runtine "Debug"
+		runtime "Debug"
 		symbols "on"
 
 	filter "configurations:Release"
